@@ -15,7 +15,7 @@ namespace Arrays
 
         // void CustomerList()
         // {
-        // Console.WriteLine("Ali Yıldız");
+        // Console.WriteLine("Ali Yılmaz");
         // Console.WriteLine("Ayşe Can");
         // Console.WriteLine("Hakan Yıldız");
         // }
@@ -104,8 +104,8 @@ namespace Arrays
         return student +  "Öğrenci Başarısız oldu";
       }
     }
-    Console.WriteLine(ExamResult("Ali", 50, 60, 40));
-    Console.WriteLine(ExamResult("Ayşe", 50, 60, 40));
+    Console.WriteLine(ExamResult("Ali", 50, 120, 40));
+    Console.WriteLine(ExamResult("Ayşe", 50, 180, 40));
 
     Console.Read();
     #endregion
