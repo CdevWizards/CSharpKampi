@@ -111,13 +111,13 @@ namespace Arrays
     // ------------------
     // int[] numbers = {10,20,30,40,50};
     // int sum = 0;
-
+//
     // for (int i =0; i < numbers.Length; i++)
     // {
     //     sum += numbers[i];
     // }
     // Console.WriteLine(sum);
-    // int[] numbers = {10,21,33,40,50};
+    // int[] numbers = {10,23,31,41,50};
     // Console.WriteLine("Çift Sayılar");
     // for (int i = 0; i < numbers.Length;i++ )
     // {
@@ -132,4 +132,5 @@ namespace Arrays
     //     if(numbers[i] % 2 ==1)
     //     {
     //         Console.WriteLine(numbers[i]);
-    //     }
+    //     } 
+    //
