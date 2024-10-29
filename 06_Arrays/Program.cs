@@ -124,7 +124,7 @@ namespace Arrays
     //     if(numbers[i] % 2 ==0)
     //     {
     //         Console.WriteLine(numbers[i]);
-    //     }
+    //     
     // }
     // Console.WriteLine("Tek Sayılar");
     // for (int i = 0; i < numbers.Length;i++ )

@@ -104,8 +104,8 @@ namespace Arrays
         return student +  "Öğrenci Başarısız oldu";
       }
     }
-    Console.WriteLine(ExamResult("Ali", 50, 120, 40));
-    Console.WriteLine(ExamResult("Ayşe", 50, 180, 40));
+    Console.WriteLine(ExamResult("Ali", 60, 120, 40));
+    Console.WriteLine(ExamResult("Ayşe", 70, 180, 40));
 
     Console.Read();
     #endregion
