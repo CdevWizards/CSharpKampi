@@ -1,0 +1,15 @@
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\obj\Debug\net9.0\05_LoopsWithStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\obj\Debug\net9.0\05_LoopsWithStars.AssemblyInfoInputs.cache
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\obj\Debug\net9.0\05_LoopsWithStars.AssemblyInfo.cs
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\obj\Debug\net9.0\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\obj\Debug\net9.0\05_LoopsWithStars.sourcelink.json
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\bin\Debug\net9.0\05_LoopsWithStars.exe
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\bin\Debug\net9.0\05_LoopsWithStars.deps.json
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\bin\Debug\net9.0\05_LoopsWithStars.runtimeconfig.json
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\bin\Debug\net9.0\05_LoopsWithStars.dll
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\bin\Debug\net9.0\05_LoopsWithStars.pdb
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\obj\Debug\net9.0\05_LoopsWithStars.dll
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\obj\Debug\net9.0\refint\05_LoopsWithStars.dll
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\obj\Debug\net9.0\05_LoopsWithStars.pdb
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\obj\Debug\net9.0\05_LoopsWithStars.genruntimeconfig.cache
+C:\Users\ubahm\Desktop\CSharpKampi\05_LoopsWithStars\obj\Debug\net9.0\ref\05_LoopsWithStars.dll
