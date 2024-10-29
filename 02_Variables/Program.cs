@@ -13,7 +13,7 @@ namespace _02_Variables
 
             #region Double Değişkenler
             ////double number;
-            ////number = 5.20;
+            ////number = 6.20;
             ////Console.WriteLine(number);
 
             Console.WriteLine("***** Fiyat Listesi *****");
