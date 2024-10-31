@@ -60,7 +60,8 @@ namespace _01_MainSubjects
             //customerEmail = "test@gmail.com";
             //district = "Üsküdar";
             //city = "İstanbul";
-
+//---------------------------------------
+           //Console.WriteLine();
             //Console.WriteLine();
             //Console.WriteLine("-----------------------------------");
             //Console.WriteLine("Müşteri: " + customerName + " " + customerSurname);
