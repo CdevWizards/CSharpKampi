@@ -75,8 +75,8 @@ namespace _01_MainSubjects
 
             #region int Değişkenler
 
-            int number = 24;
-            Console.WriteLine(number);
+            int numb = 24;
+            Console.WriteLine(numb);
 
             int hamburgerPrice = 300;
             int cokePrice = 35;
@@ -119,7 +119,7 @@ namespace _01_MainSubjects
             Console.WriteLine("Pizza Tutarı: " + (pizzaCount * pizzaPrice) + " TL");
             Console.WriteLine("Limonata Tutarı: " + (lemonadeCount * lemonadePrice) + " TL");
             Console.WriteLine();
-            Console.WriteLine("Toplam ödenecek Tutar: " + totalPrice + " TL");
+            Console.WriteLine("Toplam ödenecek Tutr: " + totalPrice + " TL");
 
             #endregion
 
