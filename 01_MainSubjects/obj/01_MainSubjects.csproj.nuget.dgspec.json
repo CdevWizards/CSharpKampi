@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ubahm\\Desktop\\CSharpKampi\\01_MainSubjects\\01_MainSubjects.csproj": {}
+    "c:\\Users\\ubahm\\Desktop\\CSharpKampi\\01_MainSubjects\\01_MainSubjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ubahm\\Desktop\\CSharpKampi\\01_MainSubjects\\01_MainSubjects.csproj": {
+    "c:\\Users\\ubahm\\Desktop\\CSharpKampi\\01_MainSubjects\\01_MainSubjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ubahm\\Desktop\\CSharpKampi\\01_MainSubjects\\01_MainSubjects.csproj",
+        "projectUniqueName": "c:\\Users\\ubahm\\Desktop\\CSharpKampi\\01_MainSubjects\\01_MainSubjects.csproj",
         "projectName": "01_MainSubjects",
-        "projectPath": "C:\\Users\\ubahm\\Desktop\\CSharpKampi\\01_MainSubjects\\01_MainSubjects.csproj",
+        "projectPath": "c:\\Users\\ubahm\\Desktop\\CSharpKampi\\01_MainSubjects\\01_MainSubjects.csproj",
         "packagesPath": "C:\\Users\\ubahm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ubahm\\Desktop\\CSharpKampi\\01_MainSubjects\\obj\\",
+        "outputPath": "c:\\Users\\ubahm\\Desktop\\CSharpKampi\\01_MainSubjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ubahm\\AppData\\Roaming\\NuGet\\NuGet.Config"
